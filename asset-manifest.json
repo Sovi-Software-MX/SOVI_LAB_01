@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SOVI_LAB_01/static/css/main.e6c13ad2.css",
+    "main.js": "/SOVI_LAB_01/static/js/main.d518c172.js",
+    "static/js/453.8ab44547.chunk.js": "/SOVI_LAB_01/static/js/453.8ab44547.chunk.js",
+    "index.html": "/SOVI_LAB_01/index.html",
+    "main.e6c13ad2.css.map": "/SOVI_LAB_01/static/css/main.e6c13ad2.css.map",
+    "main.d518c172.js.map": "/SOVI_LAB_01/static/js/main.d518c172.js.map",
+    "453.8ab44547.chunk.js.map": "/SOVI_LAB_01/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d518c172.js"
+  ]
+}
